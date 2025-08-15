@@ -23,6 +23,7 @@ Soubor si pojmenuju vysledky_beroun pro jednoduchost.
 1.argument `https://www.volby.cz/pls/ps2021/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2102`
 
 2.argument `vysledky_beroun.csv`
+
 Spuštění programu:
 ```bash
 python main.py 'https://www.volby.cz/pls/ps2021/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2102' 'vysledky_beroun.csv'
