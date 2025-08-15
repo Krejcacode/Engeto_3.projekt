@@ -17,8 +17,11 @@ python main.py <odkaz-uzemniho-celku> <vysledny-soubor>
 Výsledný soubor potřebuje obsahovat příponu `csv`. Do souboru se potom stáhnou výsledky.
 ## Ukázka projektu
 Například si zvolím, že chci vyscrapovat výsledky z okresu Beroun.
+
 Soubor si pojmenuju vysledky_beroun pro jednoduchost.
+
 1.argument `https://www.volby.cz/pls/ps2021/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2102`
+
 2.argument `vysledky_beroun.csv`
 Spuštění programu:
 ```bash
